@@ -1,0 +1,7 @@
+scenario,feature,change_pct,description,policy,baseline_prob,cf_prob,abs_effect,rel_effect
+S1: CDR +20%,c_cdr,20.0,Case Detection Rate +20%,Improve DOTS coverage,0.269,0.2697,0.0007,0.27
+S2: CDR +40%,c_cdr,40.0,Case Detection Rate +40%,Aggressive detection drive,0.269,0.2709,0.0019,0.71
+S3: TB Cases -20%,tb_cases,-20.0,TB Cases reduced 20%,Treatment intensification,0.269,0.2383,-0.0308,-11.44
+S4: TB Cases -40%,tb_cases,-40.0,TB Cases reduced 40%,Elimination campaign,0.269,0.2146,-0.0545,-20.24
+S5: Incidence -15%,e_inc_100k,-15.0,TB Incidence -15%,Prevention programs,0.269,0.269,0.0,0.0
+S6: Mortality -20%,e_mort_100k,-20.0,TB Mortality -20%,Better treatment access,0.269,0.269,0.0,0.0

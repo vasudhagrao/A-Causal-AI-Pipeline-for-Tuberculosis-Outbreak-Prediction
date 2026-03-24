@@ -1,0 +1,37 @@
+state,base_prob,risk_tier
+Andaman and Nicobar Islands,0.0,LOW
+Tripura,0.0,LOW
+Sikkim,0.0,LOW
+Puducherry,0.0,LOW
+Nagaland,0.0,LOW
+Mizoram,0.0,LOW
+Meghalaya,0.0,LOW
+Manipur,0.0,LOW
+Lakshadweep,0.0,LOW
+Uttarakhand,0.0,LOW
+Kerala,0.0,LOW
+Jammu and Kashmir,0.0,LOW
+Ladakh,0.0,LOW
+Goa,0.0,LOW
+Dadra and Nagar Haveli and Daman and Diu,0.0,LOW
+Chhattisgarh,0.0,LOW
+Chandigarh,0.0,LOW
+Himachal Pradesh,0.0,LOW
+Assam,0.0,LOW
+Arunachal Pradesh,0.0,LOW
+Punjab,0.0025,LOW
+Jharkhand,0.0029,LOW
+Odisha,0.0107,LOW
+Telangana,0.1069,LOW
+Haryana,0.2144,LOW
+Karnataka,0.2229,LOW
+Delhi,0.2583,MODERATE
+Tamil Nadu,0.2699,MODERATE
+Andhra Pradesh,0.279,MODERATE
+West Bengal,0.2797,MODERATE
+Gujarat,0.2805,MODERATE
+Rajasthan,0.3305,MODERATE
+Madhya Pradesh,0.8805,CRITICAL
+Bihar,0.9768,CRITICAL
+Maharashtra,1.0,CRITICAL
+Uttar Pradesh,1.0,CRITICAL

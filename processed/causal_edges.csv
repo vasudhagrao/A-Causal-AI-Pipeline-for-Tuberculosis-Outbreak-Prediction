@@ -1,0 +1,15 @@
+cause,effect,weight,strength
+e_inc_100k,e_mort_100k,0.9599,0.9599
+year_trend,c_cdr,0.9349,0.9349
+e_inc_100k,year_trend,-0.3726,0.3726
+tb_cases,state_burden_rank,-0.3196,0.3196
+outbreak_label,state_burden_rank,-0.3093,0.3093
+state_burden_rank,tb_cases,-0.3092,0.3092
+state_burden_rank,outbreak_label,-0.3052,0.3052
+outbreak_label,tb_cases,0.2984,0.2984
+tb_cases,outbreak_label,0.2898,0.2898
+year_trend,e_inc_100k,-0.2842,0.2842
+c_cdr,e_inc_100k,-0.2588,0.2588
+e_mort_100k,year_trend,-0.1904,0.1904
+c_cdr,year_trend,0.1597,0.1597
+e_mort_100k,e_inc_100k,0.1507,0.1507

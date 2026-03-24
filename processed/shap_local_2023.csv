@@ -1,0 +1,37 @@
+state,actual,pred_label,pred_prob,correct,top_feature,top_shap,top_feat_type,causal_fraction
+Maharashtra,1,1,1.0,1,tb_cases,0.188,CAUSAL,0.477
+Uttar Pradesh,1,1,1.0,1,tb_cases,0.188,CAUSAL,0.477
+Bihar,1,1,0.9768,1,tb_cases,0.1814,CAUSAL,0.484
+Madhya Pradesh,1,1,0.8805,1,tb_cases,0.1472,CAUSAL,0.508
+Rajasthan,0,0,0.3305,1,tb_cases,-0.1812,CAUSAL,0.445
+Gujarat,0,0,0.2805,1,tb_cases,-0.2239,CAUSAL,0.481
+West Bengal,0,0,0.2797,1,tb_cases,-0.2249,CAUSAL,0.481
+Andhra Pradesh,0,0,0.279,1,tb_cases,-0.2249,CAUSAL,0.48
+Tamil Nadu,0,0,0.2699,1,tb_cases,-0.2272,CAUSAL,0.486
+Delhi,0,0,0.2583,1,tb_cases,-0.2285,CAUSAL,0.469
+Karnataka,0,0,0.2229,1,tb_cases,-0.2275,CAUSAL,0.458
+Haryana,0,0,0.2144,1,tb_cases,-0.2309,CAUSAL,0.516
+Telangana,0,0,0.1069,1,tb_cases,-0.2144,CAUSAL,0.533
+Odisha,0,0,0.0107,1,tb_cases,-0.1956,CAUSAL,0.487
+Jharkhand,0,0,0.0029,1,tb_cases,-0.1956,CAUSAL,0.486
+Punjab,0,0,0.0025,1,tb_cases,-0.1956,CAUSAL,0.483
+Mizoram,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Sikkim,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Puducherry,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Tripura,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Uttarakhand,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Nagaland,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Andaman and Nicobar Islands,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Meghalaya,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Manipur,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Ladakh,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Kerala,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Jammu and Kashmir,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Himachal Pradesh,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Goa,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Dadra and Nagar Haveli and Daman and Diu,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Chhattisgarh,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Chandigarh,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Assam,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Arunachal Pradesh,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485
+Lakshadweep,0,0,0.0,1,tb_cases,-0.1956,CAUSAL,0.485

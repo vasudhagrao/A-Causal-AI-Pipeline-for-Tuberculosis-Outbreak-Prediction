@@ -1,0 +1,8 @@
+Section,Method,Task,Input,Key Metric,Key Value,Status
+S5,NOTEARS,Causal Discovery,"144 obs, 9 features",2 causal edges to outbreak,"tb_cases (+0.29), state_burden_rank (-0.31)",✅ Complete
+S6,GNN,Spatiotemporal Spread,"36 nodes, 4 years",Train Accuracy / Loss,Acc=0.8333 Loss=0.2817,✅ Complete
+S7,Ensemble + SMOTE,Outbreak Prediction,152 balanced samples,Test AUC / Sensitivity (2023),"AUC=1.000, Sens=1.000",✅ Complete
+S8,Counterfactuals,Policy Simulation,"6 scenarios, 8 states",Best outbreak reduction,TB Cases -40% → -20.2% (national mean),✅ Complete
+S9,IRM Transfer,OOD Generalisation,GNN emb + causal features,Transfer AUC gap (IRM-ERM),"IRM=0.965, ERM=0.906, Δ=+0.059",✅ Complete
+S10,SHAP,Causal Explainability,"144 samples, RF model",Causal attribution fraction,"Mean causal fraction=48.5%, top feature=tb_cases",✅ Complete
+S11,Policy Engine,Decision Support,S5+S7+S8+S9+S10,State-level best reduction,"4 CRITICAL states, max -42.0% (Madhya Pradesh)",✅ Complete

@@ -1,0 +1,37 @@
+state,pred_prob,pred_label,actual
+Andaman and Nicobar Islands,0.00021591628,0,0.0
+Andhra Pradesh,0.96312845,1,0.0
+Arunachal Pradesh,0.22918725,0,0.0
+Assam,0.77424335,1,0.0
+Bihar,0.97384644,1,1.0
+Chandigarh,0.013598072,0,0.0
+Chhattisgarh,0.9958593,1,0.0
+Dadra and Nagar Haveli and Daman and Diu,0.00028855528,0,0.0
+Delhi,0.9755146,1,0.0
+Goa,0.9063321,1,0.0
+Gujarat,0.9891683,1,0.0
+Haryana,0.9966203,1,0.0
+Himachal Pradesh,0.98829776,1,0.0
+Jammu and Kashmir,0.60305464,1,0.0
+Jharkhand,0.9905247,1,0.0
+Karnataka,0.9783877,1,0.0
+Kerala,0.88470507,1,0.0
+Ladakh,0.00016136414,0,0.0
+Lakshadweep,8.0426435e-05,0,0.0
+Madhya Pradesh,0.9965827,1,1.0
+Maharashtra,0.9934214,1,1.0
+Manipur,0.13974065,0,0.0
+Meghalaya,0.48029536,0,0.0
+Mizoram,0.12923855,0,0.0
+Nagaland,0.16720797,0,0.0
+Odisha,0.98246723,1,0.0
+Puducherry,0.00053139415,0,0.0
+Punjab,0.97829616,1,0.0
+Rajasthan,0.9976376,1,0.0
+Sikkim,0.4736643,0,0.0
+Tamil Nadu,0.95380616,1,0.0
+Telangana,0.98785675,1,0.0
+Tripura,0.17338662,0,0.0
+Uttar Pradesh,0.9992454,1,1.0
+Uttarakhand,0.99060625,1,0.0
+West Bengal,0.8192645,1,0.0

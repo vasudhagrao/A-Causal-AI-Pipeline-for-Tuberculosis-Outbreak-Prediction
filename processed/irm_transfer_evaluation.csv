@@ -1,0 +1,7 @@
+model,env,n,outbreaks,auc,acc,sensitivity,specificity
+IRM,Env A: 2020 (Early),36,8,1.0,1.0,1.0,1.0
+IRM,Env B: 2021-22 (Active),72,24,1.0,0.9861111111111112,1.0,0.9791666666666666
+IRM,Transfer: 2023 (OOD),36,4,0.96484375,0.5833333333333334,1.0,0.53125
+ERM,Env A: 2020 (Early),36,8,1.0,1.0,1.0,1.0
+ERM,Env B: 2021-22 (Active),72,24,1.0,1.0,1.0,1.0
+ERM,Transfer: 2023 (OOD),36,4,0.90625,0.5277777777777778,1.0,0.46875

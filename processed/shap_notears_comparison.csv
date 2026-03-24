@@ -1,0 +1,10 @@
+feature,mean_abs_shap,feature_type,shap_rank,notears_weight,notears_rank,rank_agreement
+tb_cases,0.19706160998510827,CAUSAL,1,0.2898,2,1
+log_tb_cases,0.12993176590510855,non-causal,2,0.0,6,4
+state_std,0.06162572932963238,non-causal,3,0.0,9,6
+state_mean,0.05939997420759798,non-causal,4,0.0,8,4
+state_burden_rank,0.044374907470636736,CAUSAL,5,-0.3052,1,4
+c_cdr,0.0028400055750690072,non-causal,6,0.0,5,1
+year_trend,0.0017285594455647886,non-causal,7,0.0,7,0
+e_inc_100k,0.0,non-causal,8,0.0,3,5
+e_mort_100k,0.0,non-causal,9,0.0,4,5

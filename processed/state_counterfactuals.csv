@@ -1,0 +1,9 @@
+state,baseline,cf_prob,reduction,reduction_pct
+Uttar Pradesh,1.0,1.0,0.0,0.0
+Maharashtra,1.0,0.8954,0.1046,10.46
+Madhya Pradesh,0.9701,0.8776,0.0925,9.53
+Rajasthan,0.8326,0.8226,0.01,1.2
+Gujarat,0.8201,0.8055,0.0146,1.78
+Bihar,0.9942,0.7847,0.2095,21.07
+West Bengal,0.8118,0.4904,0.3214,39.59
+Tamil Nadu,0.6334,0.3972,0.2362,37.29
